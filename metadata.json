@@ -1,0 +1,6 @@
+{
+  "name": "పద సంపద - Pada Sampada",
+  "description": "A community-driven platform to preserve Telugu culture and standardize modern Telugu neologisms through voting, open dictionary standardization, and AI-assisted coinages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
